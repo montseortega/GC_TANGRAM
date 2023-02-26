@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\orteg\Documents\lmad\graficas com\OGL_PRUEBA\OGL_PRUEBA\main.cpp(166,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  OGL_PRUEBA.vcxproj -> C:\Users\orteg\Documents\lmad\graficas com\OGL_PRUEBA\Debug\OGL_PRUEBA.exe
